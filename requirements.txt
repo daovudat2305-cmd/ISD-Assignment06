@@ -1,0 +1,13 @@
+# ISD-Assignment06 Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
+scikit-learn>=1.3.0
+torch>=2.0.0
+tensorflow>=2.13.0
+yfinance>=0.2.20
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
